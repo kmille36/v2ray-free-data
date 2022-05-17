@@ -15,6 +15,7 @@ if [ $dist = "CentOS" ] ; then
           --add-repo \
           https://download.docker.com/linux/centos/docker-ce.repo
 	sudo yum -y install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+	sudo systemctl start docker
         clear
         echo "Đang tắt firewall"
         sudo systemctl stop firewalld
