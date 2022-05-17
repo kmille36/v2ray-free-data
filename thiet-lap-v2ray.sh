@@ -10,7 +10,11 @@ if [ $dist = "CentOS" ] ; then
 	sudo yum update -y
         clear
 	echo" Đang cài đặt phần mềm cần thiết"
-	sudo yum install -y docker docker.io
+	sudo yum install -y yum-utils
+	sudo yum-config-manager \
+          --add-repo \
+          https://download.docker.com/linux/centos/docker-ce.repo
+	sudo yum -y install docker-ce docker-ce-cli containerd.io docker-compose-plugin
         clear
         echo "Đang tắt firewall"
         sudo systemctl stop firewalld
