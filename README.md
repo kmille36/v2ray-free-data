@@ -3,6 +3,7 @@ Script tự động cài đặt v2ray server dùng để hack băng thông các 
 
 - Điều kiện: VPS phải mở port 80, cấu hình k quan trọng
 - Hỗ trợ: Ubuntu/Centos, nhanh tiện lợi chỉ 1 lệnh có ngay server 
+- SIM hỗ trợ: Vietnamobile, Viettel tài khoản 0Đ chạy đc tất
 - Cài đặt:
 
  curl -skLO https://raw.githubusercontent.com/kmille36/v2ray-free-data/main/thiet-lap-v2ray.sh && sudo bash thiet-lap-v2ray.sh
