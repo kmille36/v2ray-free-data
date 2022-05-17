@@ -4,27 +4,29 @@ echo "Đang nhận diện distro linux"
 dist=$(hostnamectl | egrep "Operating System" | cut -f2 -d":" | cut -f2 -d " ")
 if [ $dist = "CentOS" ] ; then
 	echo "Bạn đang sử dụng CentOS"
-  echo "Đang update hệ thống"
+	sleep 1
+        echo "Đang update hệ thống"
 	sudo yum update -y
-  clear
+        clear
 	echo" Đang cài đặt phần mềm cần thiết"
 	sudo yum install -y docker docker.io
-  clear
-  echo "Đang tắt firewall"
-  sudo systemctl stop firewalld
-  sudo systemctl disable firewalld
-  clear
+        clear
+        echo "Đang tắt firewall"
+        sudo systemctl stop firewalld
+        sudo systemctl disable firewalld
+        clear
 elif [ $dist = "Ubuntu" -o $dist = "Debian" ] ; then
 	echo "Bạn đang sử dụng Ubuntu"
-  echo "Đang update hệ thống"
+	sleep 1
+        echo "Đang update hệ thống"
 	sudo apt-get update -y
-  clear
+        clear
 	echo "Đang cài đặt phần mềm cần thiết"
 	sudo apt install -y docker docker.io
-  clear
+        clear
 	echo "Đang tắt firewall"
-  sudo ufw disable
-  clear
+        sudo ufw disable
+        clear
 fi
 echo "Đang khởi tạo server V2ray"
 sudo docker run -it -p 80:8081 thuonghai2711/v2ray-azure-web:latest
