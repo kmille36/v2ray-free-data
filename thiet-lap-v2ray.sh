@@ -50,3 +50,8 @@ echo "Request host (Yêu cầu host): thay thế 1 trong 2 địa chỉ sau"
 echo " + Vietnamobile: vietnamobile.com.vn"
 echo " + Viettel: Mijutv.akamaized.net"
 echo "Các phần còn lại để mặc định hoặc để trống"
+echo "Nếu gặp khó khăn khi nhập thủ công, import vmess này vào (thay 12.34.56.78 = IP VPS: $IP)"
+echo " + Vietnamobile: vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5LWRlbW8iLA0KICAiYWRkIjogIjEyLjM0LjU2Ljc4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYmE2NTFjOGMtY2IzNS00YzQ2LWJmNmMtZjkwYmQ2ZjA5NGUzIiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidmlldG5hbW9iaWxlLmNvbS52biIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+"
+echo " + Viettel: vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5LWRlbW8iLA0KICAiYWRkIjogIjEyLjM0LjU2Ljc4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYmE2NTFjOGMtY2IzNS00YzQ2LWJmNmMtZjkwYmQ2ZjA5NGUzIiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiTWlqdXR2LmFrYW1haXplZC5uZXQiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+"
