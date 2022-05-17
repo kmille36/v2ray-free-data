@@ -8,7 +8,7 @@ dist=$(hostnamectl | egrep "Operating System" | cut -f2 -d":" | cut -f2 -d " ")
 if [ $dist = "CentOS" ] ; then
 	echo "Bạn đang sử dụng CentOS"
 	sleep 1
-        echo" Đang gỡ cài đặt phần mềm cần thiết"
+        echo "Đang gỡ cài đặt phần mềm cần thiết"
         sudo yum remove -y docker docker.io
         clear
         echo "Đang bật firewall"
