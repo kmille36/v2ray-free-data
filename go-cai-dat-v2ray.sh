@@ -9,7 +9,7 @@ if [ $dist = "CentOS" ] ; then
 	echo "Bạn đang sử dụng CentOS"
 	sleep 1
         echo "Đang gỡ cài đặt phần mềm cần thiết"
-        sudo yum remove -y docker docker.io
+        sudo yum remove -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
         clear
         echo "Đang bật firewall"
         sudo systemctl start firewalld
