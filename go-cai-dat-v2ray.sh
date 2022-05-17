@@ -1,3 +1,4 @@
+clear
 echo "Script by fb.com/thuong.hai.581"
 echo "Hỗ trợ: Ubuntu/Centos"
 echo "Đang dừng v2ray server"
