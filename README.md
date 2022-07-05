@@ -11,7 +11,7 @@
 + viettel.tiktok.com
 + free.tiktok.com
 
-Script tự động cài đặt v2ray server dùng để hack băng thông các nhà mạng.
+*Script tự động cài đặt v2ray server dùng để hack băng thông các nhà mạng.*
 
 - Điều kiện: VPS phải mở port 80, cấu hình k quan trọng
 - Hỗ trợ: Ubuntu/Centos, nhanh tiện lợi chỉ 1 lệnh có ngay server 
