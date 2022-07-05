@@ -21,20 +21,13 @@ Script tự động cài đặt v2ray server dùng để hack băng thông các 
  
  **Hiện tại SNI akamaized đã bị fix. Và đây là cách fix (nền tiktok)
  
-HƯỚNG DẪN FIX LỖI KHÔNG TRUY CẬP MẠNG ĐƯỢC ( TẠM THỜI)
-
-Soạn XNT7 gửi 5282. Làm xong bạn sẽ có nền Tik Tok free trong 7 ngày.
-
-Lưu ý: Khi sử dụng đến ngày thứ 6 thì bạn soạn HUY T7 gửi 5282 rồi đăng ký lại để tiếp tục được free!
-
-Nếu không hủy sẽ bị trừ tiền nhé (10k/ 7 ngày)
-
-Sau đó đổi sni thành
-
-m.tiktok.com
-
-viettel.tiktok.com
-
-free.tiktok.com
+- HƯỚNG DẪN FIX LỖI KHÔNG TRUY CẬP MẠNG ĐƯỢC ( TẠM THỜI)
+- Soạn XNT7 gửi 5282. Làm xong bạn sẽ có nền Tik Tok free trong 7 ngày.
+- Lưu ý: Khi sử dụng đến ngày thứ 6 thì bạn soạn HUY T7 gửi 5282 rồi đăng ký lại để tiếp tục được free!
+- Nếu không hủy sẽ bị trừ tiền nhé (10k/ 7 ngày)
+- Sau đó đổi sni thành
++ m.tiktok.com
++ viettel.tiktok.com
++ free.tiktok.com
 
 
