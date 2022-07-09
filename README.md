@@ -10,6 +10,7 @@
 + m.tiktok.com
 + viettel.tiktok.com
 + free.tiktok.com
++ Bonus: lifebox.vn 
 
 *Script tự động cài đặt v2ray server dùng để hack băng thông các nhà mạng.*
 
