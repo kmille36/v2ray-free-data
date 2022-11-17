@@ -1,6 +1,6 @@
 # v2ray-free-data
 
-*gói nền liên quân, sim viettel*
+*gói nền liên quân, sim viettel (mới nhất)*
 + dl.kgvn.garenanow.com
 
  *Hiện tại SNI akamaized đã bị fix. Và đây là cách fix (nền tiktok)*
