@@ -1,5 +1,8 @@
 # v2ray-free-data
 
+* gói nền liên quân, sim viettel *
+dl.kgvn.garenanow.com
+
  *Hiện tại SNI akamaized đã bị fix. Và đây là cách fix (nền tiktok)*
  
 - HƯỚNG DẪN FIX LỖI KHÔNG TRUY CẬP MẠNG ĐƯỢC ( TẠM THỜI)
