@@ -3,7 +3,7 @@
 *gói nền liên quân, sim viettel (mới nhất)*
 + dl.kgvn.garenanow.com
 
- *Hiện tại SNI akamaized đã bị fix. Và đây là cách fix (nền tiktok)*
+ *Hiện tại SNI akamaized đã bị fix. Và đây là cách fix (nền tiktok) (OUTDATE)*
  
 - HƯỚNG DẪN FIX LỖI KHÔNG TRUY CẬP MẠNG ĐƯỢC ( TẠM THỜI)
 - Soạn XNT7 gửi 5282. Làm xong bạn sẽ có nền Tik Tok free trong 7 ngày.
